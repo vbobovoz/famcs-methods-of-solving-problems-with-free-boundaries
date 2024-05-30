@@ -1,1 +1,1 @@
-# famcs-methods-of-solving-problems-with-free-boundaries
+Laboratory work that required a dimensional and dimensionless formulation of the problem. Solve the problem using the iteration-difference method. Analyze the influence of the parameter on the solution.
